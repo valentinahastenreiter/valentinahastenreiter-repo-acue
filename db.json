@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/88274888?v=4",
+      "nome": "Valentina Hastenreiter",
+      "cep": "29010390",
+      "coordinates": {
+        "lng": -40.32916950732293,
+        "lat": -20.317755923578265
+      }
+    },
+    {
+      "id": 2,
+      "avatarUrl": "https://imgur.com/Zyv3vrP",
+      "nome": "Jefferson",
+      "cep": "29010390",
+      "coordinates": {
+        "lng": -40.332442373027156,
+        "lat": -20.31908051185065
+      }
+    },
+    {
+      "id": 3,
+      "avatarUrl": "https://imgur.com/a/ulimmXs",
+      "nome": "Thiago",
+      "cep": "29010695",
+      "coordinates": {
+        "lng": -40.32830132245854,
+        "lat": -20.31971371942348
+      }
+    }
+  ]
+  
